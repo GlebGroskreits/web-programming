@@ -8,3 +8,37 @@
 + lectures on databases; 
 + lectures on C#
 ##
+### English level: 
+A2-B1
+##
+### Skills:
++  C#
++  C++
++  HTML
+##
+### Info:
+My main goal in the field of programming is to constantly expand my knowledge and skills, keeping pace with the latest advancements and technologies. I strive to be a lifelong learner, exploring new programming languages, frameworks, and tools to stay at the forefront of the industry.
+##
+### Projects:
+ This CV development project is my first project in the field of programming
+##
+### Example of code: 
+```c#
+static void SearchMedicinesChoise(Medicine[] medicines, string filePathToWhrite)
+        {
+            int n = PrintSearchMenu();
+            switch (n)
+            {
+                case 1:
+                    SearchByName(medicines, filePathToWhrite);
+                    break;
+                case 2:
+                    SearchByPrescription(medicines, filePathToWhrite);
+                    break;
+                default:
+                    Console.WriteLine("Неверный выбор.");
+                    return;
+            }
+        }
+```
+## 
