@@ -15,6 +15,7 @@ A2-B1
 +  C#
 +  C++
 +  HTML
++  CSS
 
 ### Info:
 My main goal in the field of programming is to constantly expand my knowledge and skills, keeping pace with the latest advancements and technologies. I strive to be a lifelong learner, exploring new programming languages, frameworks, and tools to stay at the forefront of the industry.
