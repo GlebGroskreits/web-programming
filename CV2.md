@@ -42,3 +42,9 @@ static void SearchMedicinesChoise(Medicine[] medicines, string filePathToWhrite)
         }
 ```
 ## 
+### Contacts: 
++ Phone: +375445998100
++ Email: 0Gleb.Groskreits0@gmail.com
++ Instagram: 
+[gleb_groskreits](https://www.instagram.com/gleb_groskreits?igsh=Y3B5bXo4d2g3MWh6)
+  
